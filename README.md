@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am an undergraduate student at UCLA ✨ I just started learning how to use GitHub. Hopefully, I will be able to create comprehensive projects on GitHub really soon. :)
 <!--
 **plzx03/plzx03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
